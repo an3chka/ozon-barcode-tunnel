@@ -1,0 +1,17 @@
+{
+  "expected_faces": ["top", "bottom", "left", "right", "front", "rear"],
+  "required_readers": [
+    "top-01",
+    "bottom-front-01",
+    "bottom-rear-01",
+    "left-01",
+    "right-01",
+    "front-01",
+    "rear-01"
+  ],
+  "dedupe_radius": 0.08,
+  "max_box_window_s": 1.8,
+  "callback_url": null,
+  "callback_timeout_s": 1.0,
+  "callback_retries": 3
+}
