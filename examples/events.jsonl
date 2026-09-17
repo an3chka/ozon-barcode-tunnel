@@ -1,0 +1,13 @@
+{"type":"box_started","box_id":"OZON-DEMO-001","at":"2026-09-17T12:00:00.000Z"}
+{"type":"face_observed","box_id":"OZON-DEMO-001","reader_id":"top-01","face":"top","at":"2026-09-17T12:00:00.100Z"}
+{"type":"face_observed","box_id":"OZON-DEMO-001","reader_id":"bottom-front-01","face":"bottom","at":"2026-09-17T12:00:00.150Z"}
+{"type":"face_observed","box_id":"OZON-DEMO-001","reader_id":"left-01","face":"left","at":"2026-09-17T12:00:00.200Z"}
+{"type":"face_observed","box_id":"OZON-DEMO-001","reader_id":"right-01","face":"right","at":"2026-09-17T12:00:00.250Z"}
+{"type":"face_observed","box_id":"OZON-DEMO-001","reader_id":"front-01","face":"front","at":"2026-09-17T12:00:00.300Z"}
+{"type":"face_observed","box_id":"OZON-DEMO-001","reader_id":"rear-01","face":"rear","at":"2026-09-17T12:00:00.350Z"}
+{"type":"reading","box_id":"OZON-DEMO-001","reader_id":"left-01","face":"left","code":"24652856131000","symbology":"CODE128","at":"2026-09-17T12:00:00.220Z","position":{"x":0.20,"y":0.40},"quality":0.96}
+{"type":"reading","box_id":"OZON-DEMO-001","reader_id":"left-01","face":"left","code":"24652856131000","symbology":"CODE128","at":"2026-09-17T12:00:00.240Z","position":{"x":0.21,"y":0.41},"quality":0.98}
+{"type":"reading","box_id":"OZON-DEMO-001","reader_id":"left-01","face":"left","code":"24652856131000","symbology":"CODE128","at":"2026-09-17T12:00:00.270Z","position":{"x":0.80,"y":0.65},"quality":0.92}
+{"type":"reading","box_id":"OZON-DEMO-001","reader_id":"bottom-rear-01","face":"bottom","code":"BOX-SECOND-CODE","symbology":"DATAMATRIX","at":"2026-09-17T12:00:00.430Z","position":{"x":0.55,"y":0.30},"quality":0.91}
+{"type":"box_finished","box_id":"OZON-DEMO-001","at":"2026-09-17T12:00:00.800Z"}
+
